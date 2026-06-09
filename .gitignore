@@ -1,0 +1,23 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# Local Cache & Storage
+models_cache/
+backend/models_cache/
+backend/uploads/
+
+# Build directories
+dist/
+build/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
